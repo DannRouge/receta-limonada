@@ -1,4 +1,4 @@
 # Receta de limonada
 Versión de ramas para aprender y practicar sobre el tema de ramas en Git.
-Porciones: 2 vasos
+Porciones: 4 vasos
 
