@@ -1,3 +1,4 @@
+#Receta limonada
 Proyecto de practica del curso Git y GitHub (PIT 2026, UNI).
 ## Que hay aqui
 - receta.md: ingredientes y pasos.
